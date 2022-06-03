@@ -126,3 +126,38 @@ C:\Users\enzor\Documents\Enzo\DS\RpgMvc\obj\Debug\net5.0\RpgMvc.csproj.CopyCompl
 C:\Users\enzor\Documents\Enzo\DS\RpgMvc\obj\Debug\net5.0\RpgMvc.genruntimeconfig.cache
 C:\Users\enzor\Documents\Enzo\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Details.cshtml.g.cs
 C:\Users\enzor\Documents\Enzo\DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Humanizer.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Enzo - DS\RpgMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Enzo - DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Create.cshtml.g.cs
+D:\Enzo - DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Details.cshtml.g.cs
+D:\Enzo - DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Personagens\Edit.cshtml.g.cs
+D:\Enzo - DS\RpgMvc\obj\Debug\net5.0\Razor\Views\Disputas\Index.cshtml.g.cs
